@@ -1,7 +1,9 @@
 ---
 title: "About"
 description: |
-  My learning journal of bioinformatics.
+    _Speak, then, and tell everything.  For, it comforts those in pain._\
+    _To know before hand all the agony they still must bear._\
+    -- ___Aeschylus, Prometheus Bound___
 ---
 
 ```{r setup, include=FALSE}
@@ -9,18 +11,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Feifei Li \
-\<ff.li@mail.utoronto.ca\> \
-University of Toronto\
-4th year undergraduate Bioinformatics and Computational Biology specialist, \
-Majoring in statistics \
-
-
-_Speak, then, and tell everything.  For, it comforts those in pain._\
-_To know before hand all the agony they still must bear._\
--- ___Aeschylus, Prometheus Bound___
-
-This blog is dedicated to documenting my learning journey of bioinformatics,
-and share my experience in hopes of helping those who are facing the same problems
-as I have encountered (and solved).\
-
-坑之宝贵，踩后自知。\
+~~ff.li@mail.utoronto.ca~~ | lifeifei@comp.nus.edu.sg \
+\
+**University of Toronto** \
+HBSc, Bioinformatics and Computational Biology Specialist & Statistics Major \
+\
+**National University of Singapore** \
+Master of Computing (in progress) \
